@@ -6,6 +6,11 @@ Nesta semana você conhecerá o fluxo básico de um projeto de sistemas embarcad
 
 Ao final, você terá um programa que pisca o LED interno da placa, executado primeiro em uma simulação e depois, se houver uma placa disponível, no hardware real.
 
+## Atividades da semana
+
+- [Lista de exercícios](../exercicios/semana-01.md)
+- [Gabarito comentado](../gabaritos/semana-01.md)
+
 ## Sumário
 
 1. [Objetivos de aprendizagem](#objetivos-de-aprendizagem)
