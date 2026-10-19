@@ -2,6 +2,9 @@
 
 Repositório de apoio à monitoria de programação do módulo de **Internet das Coisas (IoT)**. Aqui serão reunidos os conteúdos semanais, tutoriais, exemplos de código, referências e listas de exercícios.
 
+> [!IMPORTANT]
+> Este material é **exclusivamente complementar**. Ele não substitui as aulas, os materiais oficiais da disciplina nem as explicações, orientações, critérios e atividades apresentados pelo professor. Em caso de divergência, sempre prevalece o que for comunicado pelo professor responsável.
+
 ## Como usar este repositório
 
 Cada semana possui um documento próprio na pasta [`docs`](docs/). Os documentos seguem a mesma estrutura: objetivos, assuntos, materiais, lista de exercícios e espaço para dúvidas. O conteúdo será ampliado ao longo do módulo.
@@ -28,6 +31,7 @@ Cada semana terá uma lista com dez questões: oito questões objetivas em estil
 | Semana | Lista | Gabarito |
 | :---: | --- | --- |
 | 01 | [Exercícios](exercicios/semana-01.md) | [Gabarito](gabaritos/semana-01.md) |
+| 02 | [Exercícios](exercicios/semana-02.md) | [Gabarito](gabaritos/semana-02.md) |
 
 ## Links principais
 
@@ -53,9 +57,11 @@ Cada semana terá uma lista com dez questões: oito questões objetivas em estil
 │   ├── ...
 │   └── semana-10.md
 ├── exercicios/
-│   └── semana-01.md
+│   ├── semana-01.md
+│   └── semana-02.md
 └── gabaritos/
-    └── semana-01.md
+    ├── semana-01.md
+    └── semana-02.md
 ```
 
 Novas pastas poderão ser acrescentadas quando houver exemplos executáveis, imagens ou arquivos de apoio. A sugestão é manter códigos em `exemplos/`, recursos visuais em `assets/` e materiais auxiliares em `recursos/`.
