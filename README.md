@@ -26,12 +26,13 @@ Cada semana possui um documento próprio na pasta [`docs`](docs/). Os documentos
 
 ## Exercícios e gabaritos
 
-Cada semana terá uma lista com dez questões: oito questões objetivas em estilo ENADE, uma questão discursiva e um desafio de programação.
+Cada semana terá uma lista com dez questões: oito questões objetivas em estilo ENADE, uma questão discursiva e um desafio de programação. Quando o desafio for destinado apenas a autoestudo, isso será indicado no próprio enunciado e ele não precisará ser submetido.
 
 | Semana | Lista | Gabarito |
 | :---: | --- | --- |
 | 01 | [Exercícios](exercicios/semana-01.md) | [Gabarito](gabaritos/semana-01.md) |
 | 02 | [Exercícios](exercicios/semana-02.md) | [Gabarito](gabaritos/semana-02.md) |
+| 03 | [Exercícios](exercicios/semana-03.md) | [Gabarito](gabaritos/semana-03.md) |
 
 ## Links principais
 
@@ -58,10 +59,12 @@ Cada semana terá uma lista com dez questões: oito questões objetivas em estil
 │   └── semana-10.md
 ├── exercicios/
 │   ├── semana-01.md
-│   └── semana-02.md
+│   ├── semana-02.md
+│   └── semana-03.md
 └── gabaritos/
     ├── semana-01.md
-    └── semana-02.md
+    ├── semana-02.md
+    └── semana-03.md
 ```
 
 Novas pastas poderão ser acrescentadas quando houver exemplos executáveis, imagens ou arquivos de apoio. A sugestão é manter códigos em `exemplos/`, recursos visuais em `assets/` e materiais auxiliares em `recursos/`.
