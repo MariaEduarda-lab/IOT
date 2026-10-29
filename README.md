@@ -33,6 +33,7 @@ Cada semana terá uma lista com dez questões: oito questões objetivas em estil
 | 01 | [Exercícios](exercicios/semana-01.md) | [Gabarito](gabaritos/semana-01.md) |
 | 02 | [Exercícios](exercicios/semana-02.md) | [Gabarito](gabaritos/semana-02.md) |
 | 03 | [Exercícios](exercicios/semana-03.md) | [Gabarito](gabaritos/semana-03.md) |
+| 04 | [Exercícios](exercicios/semana-04.md) | [Gabarito](gabaritos/semana-04.md) |
 
 ## Links principais
 
@@ -60,11 +61,13 @@ Cada semana terá uma lista com dez questões: oito questões objetivas em estil
 ├── exercicios/
 │   ├── semana-01.md
 │   ├── semana-02.md
-│   └── semana-03.md
+│   ├── semana-03.md
+│   └── semana-04.md
 └── gabaritos/
     ├── semana-01.md
     ├── semana-02.md
-    └── semana-03.md
+    ├── semana-03.md
+    └── semana-04.md
 ```
 
 Novas pastas poderão ser acrescentadas quando houver exemplos executáveis, imagens ou arquivos de apoio. A sugestão é manter códigos em `exemplos/`, recursos visuais em `assets/` e materiais auxiliares em `recursos/`.
